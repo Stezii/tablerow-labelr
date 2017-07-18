@@ -20,6 +20,7 @@ function buildHtml(done) {
 				'<script src="../src/jquery-1.9.1.min.js"></script>'+
 				'<script src="../src/jquery.tabletojson.js"></script>'+
 				'<script src="../src/tablerow-labelr.js"></script>'+
+				'<script src="../src/FileSaver.min.js"></script>'+
 			'</body>'+
 		'</html>';
 		writeHtml(html, done);

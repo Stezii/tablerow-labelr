@@ -1,9 +1,9 @@
-[
+﻿[
     {
         "name": "grinning face",
-        "number": null,
+        "number": 1,
         "codes": [
-            null
+            "U+1F600"
         ],
         "codePoints": [
             128512
@@ -12,16 +12,16 @@
         "group": "Smileys &amp; People",
         "subGroup": "face-positive",
         "keywords": [
-            null,
-            null
+            "face",
+            "grin"
         ],
-        "valence": "o"
+        "valence": "-"
     },
     {
         "name": "beaming face with smiling eyes",
-        "number": null,
+        "number": 2,
         "codes": [
-            null
+            "U+1F601"
         ],
         "codePoints": [
             128513
@@ -30,18 +30,18 @@
         "group": "Smileys &amp; People",
         "subGroup": "face-positive",
         "keywords": [
-            null,
-            null,
-            null,
-            null
+            "eye",
+            "face",
+            "grin",
+            "smile"
         ],
         "valence": "o"
     },
     {
         "name": "face with tears of joy",
-        "number": null,
+        "number": 3,
         "codes": [
-            null
+            "U+1F602"
         ],
         "codePoints": [
             128514
@@ -50,93 +50,11 @@
         "group": "Smileys &amp; People",
         "subGroup": "face-positive",
         "keywords": [
-            null,
-            null,
-            null,
-            null
+            "face",
+            "joy",
+            "laugh",
+            "tear"
         ],
         "valence": "+"
-    },
-    {
-        "name": "rolling on the floor laughing",
-        "number": null,
-        "codes": [
-            null
-        ],
-        "codePoints": [
-            129315
-        ],
-        "character": "🤣",
-        "group": "Smileys &amp; People",
-        "subGroup": "face-positive",
-        "keywords": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "valence": "+"
-    },
-    {
-        "name": "grinning face with big eyes",
-        "number": null,
-        "codes": [
-            null
-        ],
-        "codePoints": [
-            128515
-        ],
-        "character": "😃",
-        "group": "Smileys &amp; People",
-        "subGroup": "face-positive",
-        "keywords": [
-            null,
-            null,
-            null,
-            null
-        ],
-        "valence": "+"
-    },
-    {
-        "name": "grinning face with smiling eyes",
-        "number": null,
-        "codes": [
-            null
-        ],
-        "codePoints": [
-            128516
-        ],
-        "character": "😄",
-        "group": "Smileys &amp; People",
-        "subGroup": "face-positive",
-        "keywords": [
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "valence": "+"
-    },
-    {
-        "name": "grinning face with sweat",
-        "number": null,
-        "codes": [
-            null
-        ],
-        "codePoints": [
-            128517
-        ],
-        "character": "😅",
-        "group": "Smileys &amp; People",
-        "subGroup": "face-positive",
-        "keywords": [
-            null,
-            null,
-            null,
-            null,
-            null
-        ],
-        "valence": "o"
     }
 ]
