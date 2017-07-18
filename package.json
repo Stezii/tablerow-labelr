@@ -1,0 +1,30 @@
+{
+  "name": "tablerow-labelr",
+  "version": "0.1.0",
+  "description": "Browser-based labelling of table rows built from JSON data",
+  "author": "Stefan Zimmer <stefan.zimmer_shb@t-online.de>",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Stezii/tablerow-labelr",
+  "bugs": {
+    "url": "https://github.com/Stezii/tablerow-labelr/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stezii/tablerow-labelr/issues"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "build": "make build",
+    "clean": "make clean"
+  },
+  "keywords": [
+    "tablerow-labelr",
+    "table",
+    "row",
+    "html",
+    "json"
+  ],
+  "dependencies": {
+    "tableify": "^1.0.1"
+  }
+}

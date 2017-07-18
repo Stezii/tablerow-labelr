@@ -1,0 +1,57 @@
+[
+    {
+        "name": "grinning face",
+        "number": 1,
+        "codes": [
+            "U+1F600"
+        ],
+        "codePoints": [
+            128512
+        ],
+        "character": "😀",
+        "group": "Smileys & People",
+        "subGroup": "face-positive",
+        "keywords": [
+            "face",
+            "grin"
+        ]
+    },
+    {
+        "name": "beaming face with smiling eyes",
+        "number": 2,
+        "codes": [
+            "U+1F601"
+        ],
+        "codePoints": [
+            128513
+        ],
+        "character": "😁",
+        "group": "Smileys & People",
+        "subGroup": "face-positive",
+        "keywords": [
+            "eye",
+            "face",
+            "grin",
+            "smile"
+        ]
+    },
+    {
+        "name": "face with tears of joy",
+        "number": 3,
+        "codes": [
+            "U+1F602"
+        ],
+        "codePoints": [
+            128514
+        ],
+        "character": "😂",
+        "group": "Smileys & People",
+        "subGroup": "face-positive",
+        "keywords": [
+            "face",
+            "joy",
+            "laugh",
+            "tear"
+        ]
+    }
+]
