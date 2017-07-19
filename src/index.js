@@ -9,7 +9,11 @@ function buildHtml(done) {
 	console.log('Reading JSON...');
 	fs.readFile(inputJson, "utf8", function(err, data) {
 		if (err) return done(err);
-		var html = '<html>'+
+		var html = '<!DOCTYPE html>'+
+			'<html>'+
+			'<head>'+
+				'<meta charset="utf-8"/>'+
+			'</head>'+
 			'<body>'+
 				'<button id="undo">Undo</button>'+
 				'<table id="aTable" border="1">'+
